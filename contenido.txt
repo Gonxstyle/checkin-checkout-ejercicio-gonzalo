@@ -4,5 +4,5 @@ Línea 2 modificada por usuario X
 Línea 2 cambiada desde rama principal
 Línea 3
 Línea 4
-Linea 5
+Linea 5 qqqqqqqqqqq 
 Commit inicial del documento
